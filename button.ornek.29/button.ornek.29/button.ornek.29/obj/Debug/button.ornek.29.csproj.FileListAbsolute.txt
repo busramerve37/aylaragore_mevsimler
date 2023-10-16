@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.29\button.ornek.29\button.ornek.29\bin\Debug\button.ornek.29.exe.config
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.29\button.ornek.29\button.ornek.29\bin\Debug\button.ornek.29.exe
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.29\button.ornek.29\button.ornek.29\bin\Debug\button.ornek.29.pdb
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.29\button.ornek.29\button.ornek.29\obj\Debug\button.ornek.29.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.29\button.ornek.29\button.ornek.29\obj\Debug\button.ornek.29.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.29\button.ornek.29\button.ornek.29\obj\Debug\button.ornek._29.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.29\button.ornek.29\button.ornek.29\obj\Debug\button.ornek._29.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.29\button.ornek.29\button.ornek.29\obj\Debug\button.ornek.29.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.29\button.ornek.29\button.ornek.29\obj\Debug\button.ornek.29.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.29\button.ornek.29\button.ornek.29\obj\Debug\button.ornek.29.exe
+C:\Users\User\Desktop\KORUMASIZ\busra662\button.ornek.29\button.ornek.29\button.ornek.29\obj\Debug\button.ornek.29.pdb
